@@ -1,16 +1,23 @@
-## Hi there 👋
+# Think Again Tattoo Removal
 
-<!--
-**ThinkAgainTattooRemoval/thinkagaintattooremoval** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Specialist laser tattoo removal. Nothing else.**
 
-Here are some ideas to get you started:
+Developers of the world's leading AI-powered tattoo analysis technology, built from 150,000+ clinical treatments.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Locations
+🇺🇸 **Austin, TX** | **Los Angeles, CA** | **Costa Mesa, CA**  
+🇦🇺 Sydney | Brisbane | Melbourne | Perth  
+🇳🇿 Auckland
+
+## Technology
+- Quanta Discovery Pico Plus (FDA-cleared)
+- Quattropulse™ 4-wavelength system
+- AI-powered session prediction
+
+## Links
+🌐 [thinkagaintattooremoval.com](https://thinkagaintattooremoval.com)  
+📸 [Instagram](https://www.instagram.com/thinkagainlaserclinic)  
+🎵 [TikTok](https://www.tiktok.com/@thinkagaintattooremoval)
+
+---
+*Independent specialist - not a franchise. Est. 2014 Sydney, Australia.*
